@@ -20,6 +20,134 @@
       "country": "Japan",
       "flag": "🇯🇵",
       "url": "https://invidious.f5.si"
+    },
+    {
+      "app": "Piped",
+      "region": "Multiple",
+      "country": "USA, India, Netherlands, Canada, UK, France",
+      "flag": "🇺🇸, 🇮🇳, 🇳🇱, 🇨🇦, 🇬🇧, 🇫🇷",
+      "registered": "Yes",
+      "url": "https://pipedapi.kavin.rocks"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Austria",
+      "flag": "🇦🇹",
+      "registered": "Yes",
+      "url": "https://pipedapi.leptons.xyz"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Finland",
+      "flag": "🇫🇮",
+      "registered": "Yes",
+      "url": "https://pipedapi.nosebs.ru"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "registered": "No",
+      "url": "https://pipedapi-libre.kavin.rocks"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "registered": "No",
+      "url": "https://piped-api.privacy.com.de"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "registered": "No",
+      "url": "https://pipedapi.adminforge.de"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "registered": "No",
+      "url": "https://api.piped.yt"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "registered": "No",
+      "url": "https://pipedapi.drgns.space"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "registered": "No",
+      "url": "https://piapi.ggtyler.dev"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "registered": "No",
+      "url": "https://pipedapi.owo.si"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "registered": "No",
+      "url": "https://pipedapi.ducks.party"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Czech Republic",
+      "flag": "🇨🇿",
+      "registered": "No",
+      "url": "https://piped-api.codespace.cz"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "registered": "No",
+      "url": "https://pipedapi.reallyaweso.me"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Austria",
+      "flag": "🇦🇹",
+      "registered": "No",
+      "url": "https://api.piped.private.coffee"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "registered": "No",
+      "url": "https://pipedapi.darkness.services"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Slovenia",
+      "flag": "🇸🇮",
+      "registered": "No",
+      "url": "https://pipedapi.orangenet.cc"
     }
    ]
 }

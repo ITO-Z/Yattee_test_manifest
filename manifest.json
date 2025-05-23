@@ -13,6 +13,13 @@
       "country": "Germany",
       "flag": "🇩🇪",
       "url": "https://id.420129.xyz"
+    },
+    {
+      "app": "Invidious",
+      "region": "Asia",
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "url": "https://invidious.f5.si"
     }
    ]
 }

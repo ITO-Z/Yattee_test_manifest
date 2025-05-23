@@ -23,9 +23,9 @@
     },
     {
       "app": "Piped",
-      "region": "Multiple",
-      "country": "USA, India, Netherlands, Canada, UK, France",
-      "flag": "🇺🇸, 🇮🇳, 🇳🇱, 🇨🇦, 🇬🇧, 🇫🇷",
+      "region": "Global",
+      "country": "Global",
+      "flag": "🌎",
       "url": "https://pipedapi.kavin.rocks"
     },
     {

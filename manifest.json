@@ -23,13 +23,6 @@
     },
     {
       "app": "Piped",
-      "region": "Global",
-      "country": "Global",
-      "flag": "🌎",
-      "url": "https://pipedapi.kavin.rocks"
-    },
-    {
-      "app": "Piped",
       "region": "Europe",
       "country": "Austria",
       "flag": "🇦🇹",
